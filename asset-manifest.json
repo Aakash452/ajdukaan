@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/boombada.github.io/static/css/main.10b3e53d.css",
-    "main.js": "/boombada.github.io/static/js/main.8c5d950d.js",
-    "static/js/787.28cb0dcd.chunk.js": "/boombada.github.io/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/boombada.github.io/index.html",
-    "main.10b3e53d.css.map": "/boombada.github.io/static/css/main.10b3e53d.css.map",
-    "main.8c5d950d.js.map": "/boombada.github.io/static/js/main.8c5d950d.js.map",
-    "787.28cb0dcd.chunk.js.map": "/boombada.github.io/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/ajdukaan/static/css/main.10b3e53d.css",
+    "main.js": "/ajdukaan/static/js/main.74b22c9d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ajdukaan/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/ajdukaan/index.html",
+    "main.10b3e53d.css.map": "/ajdukaan/static/css/main.10b3e53d.css.map",
+    "main.74b22c9d.js.map": "/ajdukaan/static/js/main.74b22c9d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ajdukaan/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10b3e53d.css",
-    "static/js/main.8c5d950d.js"
+    "static/js/main.74b22c9d.js"
   ]
 }
